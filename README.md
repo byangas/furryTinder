@@ -23,7 +23,7 @@ The URLs used to fetch data are in the file: \src\appConfig.js
 
 Run the following command in terminal set application to run:
 
-`npm install && npm run link`
+`npm install`
 
 Run the command to run the app on iOS NOTE: I have not run this on Android, ONLY IOS!
 
